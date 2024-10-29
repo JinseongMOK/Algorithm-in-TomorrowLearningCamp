@@ -23,7 +23,7 @@
 
 ### 문제2(Kids With the Greatest Number of Candies)
 [LEETCODE 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)
-6. * 문제
+* 문제
 각 아이에게 주어진 사탕의 개수를 나타내는 정수 배열 candies가 주어집니다.
 당신은 각 아이에게 추가로 줄 수 있는 사탕의 개수를 나타내는 정수 extraCandies도 갖고 있습니다.
 각 아이가 가진 사탕의 수에 extraCandies를 더했을 때,
