@@ -1,7 +1,7 @@
 # Algorithm-in-TomorrowLearningCamp
 
 #Day1
-### 문제1(Greatest Common Divisor of Strings)
+### 문제1. 문자열의 최대 공약수(Greatest Common Divisor of Strings)
 [LEETCODE 1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)
 * 문제
 주어진 두 문자열 str1과 str2의 가장 큰 공약수(GCD)를 찾아야 합니다.
@@ -21,7 +21,7 @@
 
 4. 입력: str1 = "ABABABAB", str2 = "ABAB" 출력: "ABAB"
 
-### 문제2(Kids With the Greatest Number of Candies)
+### 문제2. 가장 많은 사탕을 가지고 있는 아이들(Kids With the Greatest Number of Candies)
 [LEETCODE 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)
 * 문제
 각 아이에게 주어진 사탕의 개수를 나타내는 정수 배열 candies가 주어집니다.
@@ -51,7 +51,7 @@
 
 3. 입력: candies = [12,1,12], extraCandies = 10 출력: [true, false, true]
 
-### 문제3(Can Place Flowers)
+### 문제3. 꽃 심기(Can Place Flowers)
 [LEETCODE 605](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)
 * 문제
 당신은 꽃을 심으려고 합니다. 꽃은 서로 인접한 땅에 심을 수 없습니다.
@@ -72,7 +72,7 @@
 2. 입력: flowerbed = [1,0,0,0,1], n = 2 출력: false
 	설명: 2번째 위치에 하나의 꽃만 심을 수 있기 때문에 두 개의 꽃을 심을 수 없습니다.
 
-### 문제4(Reverse Vowels of a String)
+### 문제4. 문자열의 역모음(Reverse Vowels of a String)
 [LEETCODE 345](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
 * 문제
 주어진 문자열 s에서 모음(‘a’, ‘e’, ‘i’, ‘o’, ‘u’, 대소문자 구분 없음)들만 뒤집어서 문자열을 반환하세요.
@@ -90,3 +90,39 @@
 2. 입력: s = "leetcode" 출력: "leotcede"
 	설명: 'e', 'o', 'e'가 뒤집혀서 'leotcede'가 됩니다.
 
+### 문제5. 0 이동시키기(Move Zeroes)
+[LEETCODE 283](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)
+* 문제
+주어진 정수 배열 nums에서 모든 0을 배열의 끝으로 이동시키고, 나머지 숫자는 원래의 상대적인 순서를 유지하도록 하세요.
+이 작업은 배열을 수정하여 수행해야 하며, 추가적인 배열을 사용하지 않고 수행해야 합니다.
+
+* 조건
+1. 1 <= nums.length <= 10^4
+2. -2^31 <= nums[i] <= 2^31 - 1 
+(2^31 -> int형의 범위) -21억 ~ 21억
+
+* 예시
+1. 입력: nums = [0, 1, 0, 3, 12] 출력: [1, 3, 12, 0, 0]
+	설명: 모든 0이 배열의 끝으로 이동하고, 나머지 숫자는 순서를 유지합니다.
+
+2. 입력: nums = [0] 출력: [0]
+	설명: 배열에 0만 존재할 경우 변하지 않습니다.
+
+### 문제6. 부분 수열(Is Subsequence)
+[LEETCODE 392](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)
+* 문제
+두 개의 문자열 s와 t가 주어졌을 때,
+문자열 s가 t의 부분 수열인지 확인하는 함수를 작성하세요.
+부분 수열이란 문자열에서 일부 문자를 제거하고 나머지 문자의 상대적인 순서를 유지하여 만들 수 있는 문자열을 의미합니다.
+
+* 조건
+1. 0 <= s.length <= 100
+2. 0 <= t.length <= 10^4
+3. 문자열 s와 t는 모두 소문자로 구성됩니다.
+
+* 예시
+1. 입력: s = "abc", t = "ahbgdc" 출력: true
+	설명: s는 t에서 a -> b -> c 순서로 존재하므로 부분 수열입니다.
+
+2. 입력: s = "axc", t = "ahbgdc" 출력: false
+	설명: t에는 a -> x -> c 순서로 존재하지 않으므로 부분 수열이 아닙니다.
