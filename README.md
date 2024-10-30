@@ -1,7 +1,7 @@
 # Algorithm-in-TomorrowLearningCamp
 
 #Day1
-### 문제1. 문자열의 최대 공약수(Greatest Common Divisor of Strings)
+#### 문제1. 문자열의 최대 공약수(Greatest Common Divisor of Strings)
 [LEETCODE 1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)
 
 ### 문제2. 가장 많은 사탕을 가지고 있는 아이들(Kids With the Greatest Number of Candies)
