@@ -28,6 +28,10 @@
 
 [LEETCODE 643](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)
 
-#### DAY4.
+#### DAY4. 문자열의 단어 반전(Reverse Words in a String)
 
 [LEETCODE 151](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY5. 자기를 제외한 배열의 곱(Product of Array Except Self
+
+[LEETCODE 238](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)
