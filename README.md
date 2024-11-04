@@ -35,3 +35,11 @@
 #### DAY5. 자기를 제외한 배열의 곱(Product of Array Except Self
 
 [LEETCODE 238](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY6. 가장 높은 고도 찾기(Find the Highest Altitude)
+
+[LEETCODE 1732](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY6. 두 배열의 차이점 찾기(Find the Difference of Two Arrays)
+
+[LEETCODE 2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)
