@@ -43,3 +43,11 @@
 #### DAY6. 두 배열의 차이점 찾기(Find the Difference of Two Arrays)
 
 [LEETCODE 2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY7. 피벗 인덱스 찾기(Find Pivot Index)
+
+[LEETCODE 724](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY7. 고유한 빈도 횟수(Unique Number of Occurrences)
+
+[LEETCODE 1207](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
