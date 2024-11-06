@@ -51,3 +51,11 @@
 #### DAY7. 고유한 빈도 횟수(Unique Number of Occurrences)
 
 [LEETCODE 1207](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY8. 최근 호출 수(Number of Recent Calls)
+
+[LEETCODE 933](https://leetcode.com/problems/number-of-recent-calls/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY8. 역방향 연결리스트(Reverse Linked List)
+
+[LEETCODE 206](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
