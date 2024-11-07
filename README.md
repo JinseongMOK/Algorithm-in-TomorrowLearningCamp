@@ -32,7 +32,7 @@
 
 [LEETCODE 151](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
 
-#### DAY5. 자기를 제외한 배열의 곱(Product of Array Except Self
+#### DAY5. 자기를 제외한 배열의 곱(Product of Array Except Self)
 
 [LEETCODE 238](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)
 
@@ -59,3 +59,7 @@
 #### DAY8. 역방향 연결리스트(Reverse Linked List)
 
 [LEETCODE 206](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY9. 삼중항 부분 수열 증가(Increasing Triplet Subsequence)
+
+[LEETCODE 334](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)
