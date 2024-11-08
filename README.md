@@ -63,3 +63,7 @@
 #### DAY9. 삼중항 부분 수열 증가(Increasing Triplet Subsequence)
 
 [LEETCODE 334](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY10. 물이 가장 많은 용기(Container With Most Water)
+
+[LEETCODE 11](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=leetcode-75)
