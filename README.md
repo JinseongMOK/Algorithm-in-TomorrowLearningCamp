@@ -1,4 +1,4 @@
-## Algorithm-in-TomorrowLearningCamp
+## Algorithm-in-TomorrowLearningCamp | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 #### DAY1. 문자열의 최대 공약수(Greatest Common Divisor of Strings)
 
