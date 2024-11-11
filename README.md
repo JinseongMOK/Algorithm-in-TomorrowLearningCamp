@@ -1,4 +1,6 @@
-## Algorithm-in-TomorrowLearningCamp | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## Algorithm-in-TomorrowLearningCamp
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 #### DAY1. 문자열의 최대 공약수(Greatest Common Divisor of Strings)
 
@@ -67,3 +69,7 @@
 #### DAY10. 물이 가장 많은 용기(Container With Most Water)
 
 [LEETCODE 11](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY11. 이진 트리의 최대 depth(Maximum Depth of Binary Tree)
+
+[LEETCODE 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)
