@@ -73,3 +73,7 @@
 #### DAY11. 이진 트리의 최대 depth(Maximum Depth of Binary Tree)
 
 [LEETCODE 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY12. 문자열 압축(String Compression)
+
+[LEETCODE 443](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)
