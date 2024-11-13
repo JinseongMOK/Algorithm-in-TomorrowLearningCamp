@@ -77,3 +77,7 @@
 #### DAY12. 문자열 압축(String Compression)
 
 [LEETCODE 443](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY12. n번째 Tribonacci 수(N-th Tribonacci Number)
+
+[LEETCODE 1137](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75)
