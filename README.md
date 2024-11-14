@@ -78,6 +78,10 @@
 
 [LEETCODE 443](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)
 
-#### DAY12. n번째 Tribonacci 수(N-th Tribonacci Number)
+#### DAY13. n번째 Tribonacci 수(N-th Tribonacci Number)
 
 [LEETCODE 1137](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY14. 문자열에서 별 제거(Removing Stars From a String)
+
+[LEETCODE 2390](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
