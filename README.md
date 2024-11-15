@@ -85,3 +85,7 @@
 #### DAY14. 문자열에서 별 제거(Removing Stars From a String)
 
 [LEETCODE 2390](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY15. leaf-similar 트리(Leaf-Similar Trees)
+
+[LEETCODE 872](https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75)
