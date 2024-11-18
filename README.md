@@ -89,3 +89,9 @@
 #### DAY15. leaf-similar 트리(Leaf-Similar Trees)
 
 [LEETCODE 872](https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY16. 비트 개수 구하기(Counting Bits)
+[LEETCODE 338](https://leetcode.com/problems/counting-bits/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY16. 단일 숫자 찾기(Single Number)
+[LEEDCODE 136](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=leetcode-75)
