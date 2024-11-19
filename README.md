@@ -95,3 +95,6 @@
 
 #### DAY16. 단일 숫자 찾기(Single Number)
 [LEEDCODE 136](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY17. 이진 탐색 트리(BST)에서 값 찾기(Search in a Binary Search Tree)
+[LEETCODE 700](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75)
