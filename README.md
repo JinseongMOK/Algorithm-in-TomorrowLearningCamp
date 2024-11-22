@@ -105,3 +105,11 @@
 #### DAY18. 계단을 올라가는 최소 비용(Min Cost Climbing Stairs)
 
 [LEETCODE 746](https://leetcode.com/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75)
+
+#### DAY19. 정렬된 배열에서 중복 제거(Remove Duplicates from Sorted Array)
+
+[LEETCODE 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
+
+#### DAY20.다수 원소(Majority Element)
+
+[LEETCODE 169](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
