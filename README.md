@@ -113,3 +113,11 @@
 #### DAY19.다수 원소(Majority Element)
 
 [LEETCODE 169](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
+
+#### DAY20. 가장 긴 공통 접두사(문자열)(Longest Common Prefix)
+
+[LEETCODE 14](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150)
+
+#### DAY20. 두 수의 합(문자열)(Two Sum)
+
+[LEETCODE 1](https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150)
