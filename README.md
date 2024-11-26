@@ -121,3 +121,11 @@
 #### DAY20. 두 수의 합(문자열)(Two Sum)
 
 [LEETCODE 1](https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150)
+
+#### DAY20. 부분 수열(Is Subsequence)
+
+[LEETCODE 392](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
+
+#### DAY21. 단어 패턴(Word Pattern)
+
+[LEETCODE 290](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150)
